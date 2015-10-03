@@ -1,6 +1,6 @@
-# blinktrade-api-java
+# # blinktrade-api-java
 
-API de trade bitcoins da Blinktrade, versão Java.
+# API de trade bitcoins da Blinktrade, versão Java.
 
 Versão original:
 
@@ -13,7 +13,8 @@ Se você gostou desse projeto, considere fazer uma doação para o endereço aba
 [1KMY5smphBYXkATk2zvU3Zd6SeMK867aSE](https://blockchain.info/address/1KMY5smphBYXkATk2zvU3Zd6SeMK867aSE)
 
 
-Blinktrade trade API, java version.
+
+# Blinktrade trade API, java version.
 
 Original version:
 
